@@ -16,9 +16,8 @@ body{
 
 }
 .grille_inscription {
-    weight: 200px;
+    width: 200px;
     height: 400px;
-}
 }
 .rectangle_2{
     width: 2px;
